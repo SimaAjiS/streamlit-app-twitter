@@ -1,0 +1,5 @@
+MeCab
+altair
+pandas
+streamlit
+tweepy
