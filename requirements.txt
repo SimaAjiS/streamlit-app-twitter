@@ -1,4 +1,5 @@
 # MeCab
+mecab-python3
 altair
 pandas
 streamlit
