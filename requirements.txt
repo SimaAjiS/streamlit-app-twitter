@@ -1,4 +1,4 @@
-MeCab
+# MeCab
 altair
 pandas
 streamlit
