@@ -1,5 +1,5 @@
 # MeCab
-# altair
+altair
 pandas
 streamlit
-# tweepy
+tweepy
